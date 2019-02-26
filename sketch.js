@@ -1,3 +1,4 @@
+// You need to include p5.js before running this code.
 // sketch.js
 // 15/02/2019
 // Heath P. Silcox
